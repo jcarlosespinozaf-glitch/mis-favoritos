@@ -2,14 +2,18 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
-## What this repo is
+## Qué es este repositorio
 
-A documentation-only repository: `README.md` is a curated list (written in Spanish) of the owner's starred GitHub repositories. There is no source code, build system, linter, or test suite, so there are no build/lint/test commands.
+Es un repositorio solo de documentación: `README.md` es una lista curada (en español) de los repositorios de GitHub marcados con estrella por el dueño. No hay código fuente, sistema de build, linter ni tests, así que no existen comandos de build, lint o test.
 
-## README.md structure
+## Estructura de README.md
 
-- Title: `# Mis favoritos de GitHub`, followed by a one-line description.
-- Entries are grouped under `##` category headings (currently: "Claude Code y agentes", "Skills", "NVIDIA").
-- Each entry is a bullet in the form `- [owner/repo](https://github.com/owner/repo)`.
+- Título: `# Mis favoritos de GitHub`, seguido de una descripción de una línea.
+- Las entradas se agrupan bajo encabezados `##` por categoría (actualmente: "Claude Code y agentes", "Skills", "NVIDIA").
+- Cada entrada es una viñeta con el formato `- [owner/repo](https://github.com/owner/repo)`.
 
-When adding a favorite, follow that format, place it in the matching category (or create a new `##` section), and keep the README in Spanish.
+Al agregar un favorito, sigue ese formato, ponlo en la categoría que corresponda (o crea una nueva sección `##`) y mantén el README en español.
+
+## Idioma
+
+Responde y escribe la documentación en español.
